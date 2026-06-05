@@ -5,7 +5,6 @@ import os
 
 st.set_page_config(
     page_title="Mercado de Trabalho Brasileiro",
-    page_icon="📊",
     layout="wide"
 )
 
